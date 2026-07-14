@@ -11,6 +11,7 @@ import radii from "../../../tokens/web/radii";
 import space from "../../../tokens/web/space";
 import zIndices from "../../../tokens/web/zIndices";
 import shadows from "../../../tokens/web/shadows";
+import iconSizes from "../../../tokens/web/iconSizes";
 
 const webLight = {
   name: light.name,
@@ -27,6 +28,7 @@ const webLight = {
   shadows,
   space,
   sizes: space,
+  iconSizes,
   zIndices,
 };
 

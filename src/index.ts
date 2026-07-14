@@ -15,6 +15,8 @@ export { default as breakpoints } from "./tokens/web/breakpoints";
 export { default as mediaQueries } from "./tokens/web/mediaQueries";
 export { default as zIndices } from "./tokens/web/zIndices";
 export { default as shadows } from "./tokens/web/shadows";
+export { default as iconSizes } from "./tokens/web/iconSizes";
+export type { IconSizeToken } from "./tokens/web/iconSizes";
 export { default as GlobalStyle } from "./tokens/web/GlobalStyle";
 
 export const pipelineStages = [
